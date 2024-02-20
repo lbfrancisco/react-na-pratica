@@ -1,0 +1,380 @@
+{
+  "tags": [
+    {
+      "title": "Angular",
+      "amountOfVideos": 87
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "JavaScript",
+      "amountOfVideos": 231
+    },
+    {
+      "title": "TypeScript",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Python",
+      "amountOfVideos": 178
+    },
+    {
+      "title": "Django",
+      "amountOfVideos": 76
+    },
+    {
+      "title": "Flask",
+      "amountOfVideos": 54
+    },
+    {
+      "title": "Ruby",
+      "amountOfVideos": 43
+    },
+    {
+      "title": "Rails",
+      "amountOfVideos": 67
+    },
+    {
+      "title": "PHP",
+      "amountOfVideos": 95
+    },
+    {
+      "title": "Laravel",
+      "amountOfVideos": 81
+    },
+    {
+      "title": "WordPress",
+      "amountOfVideos": 123
+    },
+    {
+      "title": "HTML",
+      "amountOfVideos": 56
+    },
+    {
+      "title": "CSS",
+      "amountOfVideos": 78
+    },
+    {
+      "title": "Sass",
+      "amountOfVideos": 32
+    },
+    {
+      "title": "Bootstrap",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Tailwind",
+      "amountOfVideos": 29
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 189
+    },
+    {
+      "title": "Spring",
+      "amountOfVideos": 101
+    },
+    {
+      "title": "C#",
+      "amountOfVideos": 144
+    },
+    {
+      "title": ".NET",
+      "amountOfVideos": 98
+    },
+    {
+      "title": "C++",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Qt",
+      "amountOfVideos": 49
+    },
+    {
+      "title": "C",
+      "amountOfVideos": 92
+    },
+    {
+      "title": "Go",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Rust",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Swift",
+      "amountOfVideos": 88
+    },
+    {
+      "title": "Kotlin",
+      "amountOfVideos": 72
+    },
+    {
+      "title": "Flutter",
+      "amountOfVideos": 59
+    },
+    {
+      "title": "React Native",
+      "amountOfVideos": 74
+    },
+    {
+      "title": "Ionic",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "Node.js",
+      "amountOfVideos": 127
+    },
+    {
+      "title": "Express",
+      "amountOfVideos": 83
+    },
+    {
+      "title": "MongoDB",
+      "amountOfVideos": 69
+    },
+    {
+      "title": "SQL",
+      "amountOfVideos": 94
+    },
+    {
+      "title": "MySQL",
+      "amountOfVideos": 86
+    },
+    {
+      "title": "PostgreSQL",
+      "amountOfVideos": 71
+    },
+    {
+      "title": "Oracle",
+      "amountOfVideos": 64
+    },
+    {
+      "title": "Firebase",
+      "amountOfVideos": 58
+    },
+    {
+      "title": "GraphQL",
+      "amountOfVideos": 52
+    },
+    {
+      "title": "REST",
+      "amountOfVideos": 77
+    },
+    {
+      "title": "AWS",
+      "amountOfVideos": 106
+    },
+    {
+      "title": "Azure",
+      "amountOfVideos": 89
+    },
+    {
+      "title": "Google Cloud",
+      "amountOfVideos": 73
+    },
+    {
+      "title": "Docker",
+      "amountOfVideos": 68
+    },
+    {
+      "title": "Kubernetes",
+      "amountOfVideos": 57
+    },
+    {
+      "title": "Git",
+      "amountOfVideos": 62
+    },
+    {
+      "title": "GitHub",
+      "amountOfVideos": 53
+    },
+    {
+      "title": "GitLab",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "Bitbucket",
+      "amountOfVideos": 38
+    },
+    {
+      "title": "VS Code",
+      "amountOfVideos": 51
+    },
+    {
+      "title": "Sublime Text",
+      "amountOfVideos": 36
+    },
+    {
+      "title": "Atom",
+      "amountOfVideos": 33
+    },
+    {
+      "title": "Eclipse",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "IntelliJ IDEA",
+      "amountOfVideos": 47
+    },
+    {
+      "title": "Visual Studio",
+      "amountOfVideos": 55
+    },
+    {
+      "title": "Xcode",
+      "amountOfVideos": 48
+    },
+    {
+      "title": "Android Studio",
+      "amountOfVideos": 50
+    },
+    {
+      "title": "Web Development",
+      "amountOfVideos": 203
+    },
+    {
+      "title": "Mobile Development",
+      "amountOfVideos": 164
+    },
+    {
+      "title": "Desktop Development",
+      "amountOfVideos": 121
+    },
+    {
+      "title": "Game Development",
+      "amountOfVideos": 93
+    },
+    {
+      "title": "Data Science",
+      "amountOfVideos": 137
+    },
+    {
+      "title": "Machine Learning",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Deep Learning",
+      "amountOfVideos": 99
+    },
+    {
+      "title": "Artificial Intelligence",
+      "amountOfVideos": 108
+    },
+    {
+      "title": "Natural Language Processing",
+      "amountOfVideos": 82
+    },
+    {
+      "title": "Computer Vision",
+      "amountOfVideos": 75
+    },
+    {
+      "title": "Reinforcement Learning",
+      "amountOfVideos": 66
+    },
+    {
+      "title": "Neural Networks",
+      "amountOfVideos": 91
+    },
+    {
+      "title": "TensorFlow",
+      "amountOfVideos": 79
+    },
+    {
+      "title": "PyTorch",
+      "amountOfVideos": 70
+    },
+    {
+      "title": "Keras",
+      "amountOfVideos": 61
+    },
+    {
+      "title": "Scikit-learn",
+      "amountOfVideos": 56
+    },
+    {
+      "title": "Pandas",
+      "amountOfVideos": 60
+    },
+    {
+      "title": "NumPy",
+      "amountOfVideos": 54
+    },
+    {
+      "title": "Matplotlib",
+      "amountOfVideos": 48
+    },
+    {
+      "title": "Seaborn",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Plotly",
+      "amountOfVideos": 37
+    },
+    {
+      "title": "OpenCV",
+      "amountOfVideos": 51
+    },
+    {
+      "title": "NLTK",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "SpaCy",
+      "amountOfVideos": 40
+    },
+    {
+      "title": "Gensim",
+      "amountOfVideos": 35
+    },
+    {
+      "title": "R",
+      "amountOfVideos": 63
+    },
+    {
+      "title": "Shiny",
+      "amountOfVideos": 46
+    },
+    {
+      "title": "Tidyverse",
+      "amountOfVideos": 52
+    },
+    {
+      "title": "ggplot2",
+      "amountOfVideos": 44
+    },
+    {
+      "title": "dplyr",
+      "amountOfVideos": 39
+    },
+    {
+      "title": "tidyr",
+      "amountOfVideos": 34
+    },
+    {
+      "title": "stringr",
+      "amountOfVideos": 31
+    },
+    {
+      "title": "lubridate",
+      "amountOfVideos": 28
+    },
+    {
+      "title": "Julia",
+      "amountOfVideos": 41
+    },
+    {
+      "title": "Scala",
+      "amountOfVideos": 49
+    }
+  ]
+}
