@@ -2,6 +2,7 @@ export type Tag = {
   title: string;
   amountOfVideos: number;
   id: string;
+  slug: string;
 }
 
 export type TagResponse = {
